@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /assets
+Allow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+Disallow: /
+
+Sitemap: http://www.anandaminers.com/sitemap.xml
